@@ -60,4 +60,4 @@ jupyter notebook notebooks/NCR_Ride_Booking_Analysis.ipynb
 For SQL: create a database `ride_dataset`, import `ride_bookings_cleaned.csv` as `dbo.ride_bookings_cleaned`, then run `sql/ride_booking_analysis.sql` in SQL Server Management Studio.
 
 ## Author
-**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile)
+Sakina Sayyad · [LinkedIn](https://www.linkedin.com/in/sakina-sayyad/)
